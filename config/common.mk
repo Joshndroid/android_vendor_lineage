@@ -144,6 +144,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Exchange2
 
+# Custom Joshndroid packages
+PRODUCT_PACKAGES += \
+		AdAway
+
 # Berry styles
 PRODUCT_PACKAGES += \
     LineageDarkTheme \
